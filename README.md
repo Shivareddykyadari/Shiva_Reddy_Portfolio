@@ -1,4 +1,4 @@
-# Portfolio of Vishwanath
+# Portfolio of Shiva Reddy Kyadari 
 
  
 This project was created with CRA (Create React App)
